@@ -1,3 +1,5 @@
-# cs326-test
+# CS 326 Lab README
 
-Hello Ishan and UCA friends.
+Lab 3:
+
+1. shibboleth
